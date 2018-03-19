@@ -122,7 +122,7 @@
   },
   "dependencies": {
     "@types/node": "^6.0.96",
-    "babel-polyfill": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
     "keras-js": "^1.0.2"
   }
 }
