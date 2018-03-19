@@ -94,10 +94,12 @@ If you like this project. You'll love my other project [crypto trading hub](http
 1. [Accumulation Distribution Line (ADL)](https://tonicdev.com/anandaravindan/adl "ADL").
 1. [Average Directional Index (ADX)](https://github.com/anandanand84/technicalindicators/blob/master/test/directionalmovement/ADX.js "ADX").
 1. [Average True Range (ATR)](https://tonicdev.com/anandaravindan/atr "ATR").
+1. [Awesome Oscillator (AO)](https://github.com/anandanand84/technicalindicators/blob/master/test/oscillators/AwesomeOscillator.js "AO").
 1. [Bollinger Bands (BB)](https://tonicdev.com/anandaravindan/bb "BB").
 1. [Commodity Channel Index (CCI)](https://github.com/anandanand84/technicalindicators/blob/master/test/oscillators/CCI.js "CCI").
 1. [Force Index (FI)](https://github.com/anandanand84/technicalindicators/blob/master/test/volume/ForceIndex.js "FI").
 1. [Know Sure Thing (KST)](https://tonicdev.com/anandaravindan/kst "KST").
+1. [Moneyflow Index (MFI)](https://github.com/anandanand84/technicalindicators/blob/master/test/volume/MFI.js "MFI").
 1. [Moving Average Convergence Divergence (MACD)](https://tonicdev.com/anandaravindan/macd "MACD").
 1. [On Balance Volume (OBV)](https://tonicdev.com/anandaravindan/obv "OBV").
 1. [Parabolic Stop and Reverse (PSAR)](https://github.com/anandanand84/technicalindicators/blob/master/test/momentum/PSAR.js "PSAR").
@@ -105,7 +107,9 @@ If you like this project. You'll love my other project [crypto trading hub](http
 1. [Relative Strength Index (RSI)](https://tonicdev.com/anandaravindan/rsi "RSI").
 1. [Simple Moving Average (SMA)](https://tonicdev.com/anandaravindan/sma "SMA").
 1. [Stochastic Oscillator (KD)](https://tonicdev.com/anandaravindan/stochastic "KD").
+1. [Stochastic RSI (StochRSI)](https://tonicdev.com/anandaravindan/stochasticrsi "StochRSI").
 1. [Triple Exponentially Smoothed Average (TRIX)](https://tonicdev.com/anandaravindan/trix "TRIX").
+1. [Typical Price](https://github.com/anandanand84/technicalindicators/blob/master/test/chart_types/TypicalPrice.js "Typical Price").
 1. [Volume Weighted Average Price (VWAP)](https://github.com/anandanand84/technicalindicators/blob/master/test/volume/VWAP.js "VWAP").
 1. [Exponential Moving Average (EMA)](https://tonicdev.com/anandaravindan/ema "EMA").
 1. [Weighted Moving Average (WMA)](https://tonicdev.com/anandaravindan/wma "WMA").
